@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(241, 175, 95);
+    }
+
+    h1{
+        color: rgb(205, 38, 180);
+    }
+    label{
+        color: rgb(1, 47, 47);
+    }
+    p{
+        color: aqua;
+        background-color: rgb(230, 35, 139);
+    }
